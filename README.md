@@ -39,15 +39,5 @@
       <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"><img height="26" alt="Postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style="max-width:100%;"></a> &nbsp;
       <a target="_blank" rel="noopener noreferrer" href="https://avatars.githubusercontent.com/u/20165699?s=400&amp;v=4"><img height="26" alt="TypeORM" src="https://avatars.githubusercontent.com/u/20165699?s=400&amp;v=4" style="max-width:100%;"></a> &nbsp;
    </p>
-   <hr>
-   <h4>
-      <a id="user-content-get-in-touch-️" class="anchor" aria-hidden="true" href="#get-in-touch-️">
-         <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-            <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-         </svg>
-      </a>
-      Get in Touch 
-      <g-emoji class="g-emoji" alias="arrow_heading_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2935.png">⤵️</g-emoji>
-   </h4>
-   <p><a href="mailto:alanworking1gmail.com"><img src="https://camo.githubusercontent.com/870a90f051c5ff7a90555290031fe0b6663b0f9ec3bfe4aaff438c0773f4fbef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f474d41494c2d2532334443333232462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/GMAIL-%23DC322F.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;"></a></p>
+  
 </article>
