@@ -35,9 +35,6 @@
    <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"><img height="26" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;"></a> &nbsp;
       <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"><img height="26" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="max-width:100%;"></a> &nbsp;
       <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img height="26" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;"></a> &nbsp;
-      <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"><img height="26" alt="Sequelize" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" style="max-width:100%;"></a> &nbsp;
-      <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"><img height="26" alt="Postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style="max-width:100%;"></a> &nbsp;
-      <a target="_blank" rel="noopener noreferrer" href="https://avatars.githubusercontent.com/u/20165699?s=400&amp;v=4"><img height="26" alt="TypeORM" src="https://avatars.githubusercontent.com/u/20165699?s=400&amp;v=4" style="max-width:100%;"></a> &nbsp;
    </p>
   
 </article>
