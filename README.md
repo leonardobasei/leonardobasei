@@ -9,7 +9,7 @@
    </h2>
    <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a7e1342b086540f0af0b6ce18c2347d9405f699c9a535f33e02d405363afde57/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3437392f3437393032362e737667"><img src="https://camo.githubusercontent.com/a7e1342b086540f0af0b6ce18c2347d9405f699c9a535f33e02d405363afde57/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3437392f3437393032362e737667" align="right" width="150" data-canonical-src="https://www.flaticon.com/svg/static/icons/svg/479/479026.svg" style="max-width:100%;"></a><br></p>
    <p>I’m currently studying to be a <strong>Full Stack Developer</strong>. Started programming with Python in 2017 and since then I try to evolve every day.
-      Currently studying the about new concepts to improve my knowledge. Everything that I am learning, i am implementing in my work like a full stack developer.
+      Currently studying about the new concepts to improve my knowledge. Everything that I am learning, i am implementing in my work like a full stack developer.
    </p>
    <h4>
       <a id="user-content-web-development-" class="anchor" aria-hidden="true" href="#web-development-">
