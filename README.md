@@ -47,6 +47,6 @@
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/leonardobasei)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:leonardobaseidias@gmail.com)
-[![GitHub Leonardo Basei]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/leonardobasei)
+[![Linkedin: Leonardo Basei](https://img.shields.io/badge/-Leonardo Basei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardobasei)](https://www.linkedin.com/in/leonardobasei)
+[![Gmail Badge](https://img.shields.io/badge/-leonardobaseidias@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardobaseidias@gmail.com)](mailto:leonardobaseidias@gmail.com)
+[![GitHub Leonardo Basei]( https://img.shields.io/github/followers/Leonardo Basei?label=follow&style=social)](https://github.com/leonardobasei)
