@@ -9,7 +9,7 @@
    </h2>
   
    <p>I’m currently studying to be a <strong>Full Stack Developer</strong>. Started programming with Python in 2017 and since then I try to evolve every day.
-      Currently studying about the new concepts to improve my knowledge. Everything that I am learning, i am implementing in my work like a full stack developer.
+      Currently studying about the new concepts to improve my knowledge. Everything that I am learning, I am implementing in my work like a full stack developer.
    </p>
    
 </article>
