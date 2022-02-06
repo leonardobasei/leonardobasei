@@ -44,9 +44,6 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<br/>
-
-<br/>
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
