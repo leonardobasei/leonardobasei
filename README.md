@@ -14,9 +14,9 @@
    
 </article>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp; Skills </h3>
 
-**Aplicações e Dados**
+**Applications and data**
 
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -28,7 +28,7 @@
   ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
   ![Vue](https://img.shields.io/badge/-vue.js-333333?style=flat&logo=Vue.js)
 
-**Utilidades**
+**Utilities**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 
@@ -38,7 +38,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 
-**Ferramentas de Desenvolvimento**
+**Development tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
@@ -46,13 +46,9 @@
 
 <br/>
 
-<a href="https://github.com/leonardobasei">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardobasei&theme=dracula&show_icons=true" />
-</a>
-
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/leonardobasei)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:leonardobaseidias@gmail.com)
