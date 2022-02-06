@@ -51,4 +51,4 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-leonardobaseidias@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardobaseidias@gmail.com)](mailto:leonardobaseidias@gmail.com)
 
-[![GitHub Leonardo Basei](https://img.shields.io/github/followers/Leonardo%20Basei?label=follow&style=social)](https://github.com/leonardobasei)
+[![GitHub Leonardo Basei](https://img.shields.io/github/followers/leonardobasei?label=follow&style=social)](https://github.com/leonardobasei)
